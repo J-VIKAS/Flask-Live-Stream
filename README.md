@@ -7,7 +7,7 @@ Takes Live Video from the camera and displays on Web App
 2) Create a Virtual Environment.  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```command -> virtualenv .env```
 3) Activate the Virtual Environment.  
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```command -> .env\Scripts\activate```
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```command -> .\.env\Scripts\activate```
 4) Install the required python packages.  
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```command -> pip install flask, opencv-python```
 5) Run the project.    
