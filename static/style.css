@@ -1,0 +1,37 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#start
+{
+    height: 50px; 
+    width: 150px; 
+    font-size: 25px;
+    transition: 1s;
+}
+
+#start:hover
+{
+    width: 200px;
+    transform: scale(1.1);
+}
+
+#stop
+{
+    height: 50px; 
+    width: 150px; 
+    font-size: 25px;
+    transition: 1s;
+}
+
+#stop:hover
+{
+    width: 200px;
+    transform: scale(1.1);
+}
+
+
+
