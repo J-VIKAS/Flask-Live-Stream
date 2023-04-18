@@ -12,5 +12,9 @@ Takes Live Video from the camera and displays on Web App
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```command -> pip install flask, opencv-python```
 5) Run the project.    
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ```command -> python app.py```
+             
+# Output
+
+![Live Streaming Output](https://github.com/J-VIKAS/Flask-Live-Stream/blob/main/static/Ouput.JPG)
 
 # Hope you like the project
